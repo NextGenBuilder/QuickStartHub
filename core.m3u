@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="403838" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/amc-us.png" group-title="Entertainment",AMC
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="405729" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="News",BBC News
+#EXTINF:-1 tvg-id="405729" tvg-name="BBC America (BBCA)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bbc-america-us.png" group-title="News",BBC News
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="403923" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-us.png" group-title="Entertainment",BET
 https://streamer1.nexgen.bz/BET/index.m3u8
