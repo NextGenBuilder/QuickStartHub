@@ -11,7 +11,7 @@ http://fl2.moveonjoy.com/BET_HER/index.m3u8
 https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelEast.us",Disney Channel (720p)
 https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="DisneyXDEast.us",Disney XD (720p)
+#EXTINF:-1 tvg-id="DisneyXDEast.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-xd-us.png",Disney XD (720p)
 https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8#EXTINF:-1 tvg-id="403733" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/148px-E%21_Logo.svg.png" group-title="Entertainment",E!
 http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 #EXTINF:-1 tvg-id="403815" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/320px-FX_Logo_2023.svg.png" group-title="Movies",FX
