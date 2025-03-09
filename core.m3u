@@ -3,7 +3,7 @@
 https://tvpass.org/live/AEEast/hd
 #EXTINF:-1 tvg-id="403838" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Entertainment",AMC
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="403711" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="News",BBC News
+#EXTINF:-1 tvg-id="405729" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="News",BBC News
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="403923" tvg-logo="https://i.imgur.com/copIbc9.png" group-title="Entertainment",BET
 https://streamer1.nexgen.bz/BET/index.m3u8
@@ -43,7 +43,7 @@ http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8?checkedby:iptvcat.com
 http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="403640" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/TBS_2004_logo.svg/221px-TBS_2004_logo.svg.png" group-title="Entertainment",TBS
 http://143.244.60.30/TBS/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="393949" tvg-logo="https://i.imgur.com/eLIe7Va.png" group-title="Entertainment",TMZ
+#EXTINF:-1 tvg-id="403806" tvg-logo="https://i.imgur.com/eLIe7Va.png" group-title="Entertainment",TMZ
 https://apollo.production-public.tubi.io/live/ac-tmz.m3u8
 #EXTINF:-1 tvg-id="403626" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png" group-title="Entertainment",USA Network
 https://tvpass.org/live/USANetworkEast/hd
