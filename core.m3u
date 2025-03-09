@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="403838" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Entertainment",AMC
+#EXTINF:-1 tvg-id="403838" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/amc-us.png" group-title="Entertainment",AMC
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="405729" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="News",BBC News
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
@@ -18,20 +18,20 @@ http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 http://fl2.moveonjoy.com/FX/index.m3u8
 #EXTINF:-1 tvg-id="403926" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" group-title="Movies",HBO
 https://fl5.moveonjoy.com/HBO_2/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="403718" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png" group-title="Entertainment",ION
+#EXTINF:-1 tvg-id="403718" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/ion-television-us.png" group-title="Entertainment",ION
 http://fl2.moveonjoy.com/ION_TV/index.m3u8
-#EXTINF:-1 tvg-id="403730" tvg-logo="https://i.imgur.com/BWmqYTO.png" group-title="Movies",Lifetime Movies
+#EXTINF:-1 tvg-id="403730" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/LMN_logo_2016.svg/1200px-LMN_logo_2016.svg.png" group-title="Movies",Lifetime Movies
 http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="403921" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="Entertainment",MTV
 https://streamer1.nexgen.bz/MTV/index.m3u8
-#EXTINF:-1 tvg-id="403578" tvg-logo="https://i.imgur.com/8vp2CdP.png" group-title="Documentary",National Geographic
+#EXTINF:-1 tvg-id="403578" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/national-geographic-us.png" group-title="Documentary",National Geographic
 https://tvpass.org/live/NationalGeographicEast/hd
-#EXTINF:-1 tvg-id="NickelodeonEast.us",Nickelodeon
-http://143.244.60.30/NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-id="NicktoonsEast.us",NickToons
-http://143.244.60.30/NICKTOONS/index.m3u8
-#EXTINF:-1 tvg-id="403563" tvg-logo="https://i.imgur.com/WEv09Ak.png" group-title="Documentary",National Geographic Wild
+#EXTINF:-1 tvg-id="403563" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nat-geo-wild-us.png" group-title="Documentary",National Geographic Wild
 https://tvpass.org/live/NationalGeographicWildEast/hd
+#EXTINF:-1 tvg-id="NickelodeonEast.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-us.png",Nickelodeon
+http://143.244.60.30/NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-id="NicktoonsEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png",NickToons
+http://143.244.60.30/NICKTOONS/index.m3u8
 #EXTINF:-1 tvg-id="403537" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/320px-Showtime.svg.png" group-title="Movies",SHOWTIME
 http://fl2.moveonjoy.com/SHOWTIME/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="403681" tvg-logo="https://i.imgur.com/byJNJdm.png" group-title="Movies",Showtime Extreme
@@ -40,11 +40,7 @@ http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
 http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="403899" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Starz_Edge_logo.svg/300px-Starz_Edge_logo.svg.png" group-title="Movies",STARZ EDGE
 http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="403640" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/TBS_2004_logo.svg/221px-TBS_2004_logo.svg.png" group-title="Entertainment",TBS
+#EXTINF:-1 tvg-id="403640" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tbs-us.png" group-title="Entertainment",TBS
 http://143.244.60.30/TBS/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="403806" tvg-logo="https://i.imgur.com/eLIe7Va.png" group-title="Entertainment",TMZ
-https://apollo.production-public.tubi.io/live/ac-tmz.m3u8
 #EXTINF:-1 tvg-id="403626" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png" group-title="Entertainment",USA Network
 https://tvpass.org/live/USANetworkEast/hd
-#EXTINF:-1 tvg-id="403761" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/512px-Vice_TV_logo.svg.png" group-title="Entertainment",Viceland
-https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
