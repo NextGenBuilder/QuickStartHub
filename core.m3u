@@ -45,3 +45,5 @@ https://apollo.production-public.tubi.io/live/ac-tmz.m3u8
 https://tvpass.org/live/USANetworkEast/hd
 #EXTINF:-1 tvg-id="403761" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/512px-Vice_TV_logo.svg.png" group-title="Entertainment",Viceland
 https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="MOTORTREND.us" tvg-name="Motor Trend" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/motor-trend-us.png" group-title="USA (DADDY LIVE)" ,Motor Trend
+https://xyzdddd.videohls.ru/lb/premium661/index.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 iPhone; CPU iPhone OS 17_6_0 like Mac OS X AppleWebKit/605.2.10 KHTML, like Gecko Version/17.6.0 Mobile/16F152 Safari/605.2"|Origin="https://ilovetoplay.xyz"
