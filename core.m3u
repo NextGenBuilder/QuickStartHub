@@ -34,8 +34,6 @@ http://143.244.60.30/NICKELODEON/index.m3u8
 http://143.244.60.30/NICKTOONS/index.m3u8
 #EXTINF:-1 tvg-id="403537" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-us.png" group-title="Movies",SHOWTIME
 http://fl2.moveonjoy.com/SHOWTIME/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="403681" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-us.png" group-title="Movies",Showtime Extreme
-http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
 #EXTINF:-1 tvg-id="403873" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-us.png" group-title="Movies",STARZ COMEDY
 http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="403899" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-us.png" group-title="Movies",STARZ EDGE
