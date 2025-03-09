@@ -3,11 +3,11 @@
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="405729" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="News",BBC News
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-id="403923" tvg-logo="https://i.imgur.com/copIbc9.png" group-title="Entertainment",BET
+#EXTINF:-1 tvg-id="403923" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-us.png" group-title="Entertainment",BET
 https://streamer1.nexgen.bz/BET/index.m3u8
-#EXTINF:-1 tvg-id="403495" tvg-logo="https://i.imgur.com/oafsrlo.png" group-title="Entertainment",BET Her
+#EXTINF:-1 tvg-id="403495" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-us.png" group-title="Entertainment",BET Her
 http://fl2.moveonjoy.com/BET_HER/index.m3u8
-#EXTINF:-1 tvg-id="403819" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/240px-CNN_International_logo.svg.png" group-title="News",CNN News International
+#EXTINF:-1 tvg-id="403819" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" group-title="News",CNN News International
 https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelEast.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-channel-us.png",Disney Channel
 https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
@@ -22,7 +22,7 @@ https://fl5.moveonjoy.com/HBO_2/index.m3u8?checkedby:iptvcat.com
 http://fl2.moveonjoy.com/ION_TV/index.m3u8
 #EXTINF:-1 tvg-id="403730" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/LMN_logo_2016.svg/1200px-LMN_logo_2016.svg.png" group-title="Movies",Lifetime Movies
 http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="403921" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="Entertainment",MTV
+#EXTINF:-1 tvg-id="403921" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mtv-us.png" group-title="Entertainment",MTV
 https://streamer1.nexgen.bz/MTV/index.m3u8
 #EXTINF:-1 tvg-id="403578" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/national-geographic-us.png" group-title="Documentary",National Geographic
 https://tvpass.org/live/NationalGeographicEast/hd
